@@ -2,6 +2,7 @@
 #include <znc/User.h>
 #include <znc/Nick.h>
 #include <znc/Modules.h>
+#include <znc/Buffer.h>
 #include <znc/Chan.h>
 #include <znc/IRCNetwork.h>
 
